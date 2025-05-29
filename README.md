@@ -8,3 +8,4 @@ I'm [Homayoun](https://www.linkedin.com/in/homayounsrp/)! Software and Machine L
 
 - [Linkedin](https://www.linkedin.com/in/homayounsrp/)
 - [Medium](https://medium.com/@homayoun.srp)
+- [YouTube](https://medium.com/@homayoun.srp](https://www.youtube.com/@Homayounsrp))
