@@ -6,5 +6,5 @@ I'm [Homayoun](https://www.linkedin.com/in/homayounsrp/)! Software and Machine L
 
 <img src="ai.gif" align="right" width="200px">
 
-- Linkedin: [Link]([https://www.linkedin.com/in/homayounsrp/])
-- Medium: [Link](https://medium.com/@homayoun.srp)
+- [Linkedin:] (https://www.linkedin.com/in/homayounsrp/)
+- [Medium:](https://medium.com/@homayoun.srp)
