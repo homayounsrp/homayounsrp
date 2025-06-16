@@ -9,3 +9,4 @@ I'm [Homayoun](https://www.linkedin.com/in/homayounsrp/)! Software and Machine L
 - [Linkedin](https://www.linkedin.com/in/homayounsrp/)
 - [Medium](https://medium.com/@homayoun.srp)
 - [YouTube](https://www.youtube.com/@Homayounsrp)
+- [Discord](https://discord.gg/gHQ6yfx52q)
